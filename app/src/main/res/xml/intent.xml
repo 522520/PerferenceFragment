@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+<PreferenceCategory>
+    <CheckBoxPreference
+        android:title="Toggle preference"
+        android:summary="Preference that is on the next screen but same hierachy">
+    </CheckBoxPreference>
+</PreferenceCategory>
+</PreferenceScreen>

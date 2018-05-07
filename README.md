@@ -1,7 +1,19 @@
-# PerferenceFragment
-Android test 4 扩展的Activity
+# 使用PrefereceFragment实现设置页面
 
-截图如下：
+总共四组设置项
+In-line preferences
+CheckBoxPreference
+Dialog-based preferences:
+EditTextPreference
+ListPreference
+Launch preferences
+PreferenceScreen: 跳转到另一个PreferenceScreen
+PreferenceScreen: 启动一个网页
+Preference attributes
+CheckBox: 父选项
+CheckBox: 子选项，当父选项勾选时呈现
+
+实验演示：
 
 <div align=left><img width="300" height="600" src="https://github.com/522520/PerferenceFragment/blob/master/images/1.png"/></div>
 <br><br>

@@ -1,12 +1,13 @@
 # 使用PrefereceFragment实现设置页面
 
-总共四组设置项
+总共四组设置项:<br>
 In-line preferences
 CheckBoxPreference
 Dialog-based preferences:
 EditTextPreference
+<br>
 ListPreference
-Launch preferences
+Launch preferences<br>
 PreferenceScreen: 跳转到另一个PreferenceScreen
 PreferenceScreen: 启动一个网页
 Preference attributes

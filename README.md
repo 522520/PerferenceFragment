@@ -2,7 +2,7 @@
 
 总共四组设置项:<br>
 In-line preferences
-CheckBoxPreference
+CheckBoxPreference<br>
 Dialog-based preferences:
 EditTextPreference
 <br>

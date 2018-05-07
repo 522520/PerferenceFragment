@@ -8,8 +8,8 @@ EditTextPreference
 <br>
 ListPreference
 Launch preferences<br>
-PreferenceScreen: 跳转到另一个PreferenceScreen
-PreferenceScreen: 启动一个网页
+PreferenceScreen: 跳转到另一个PreferenceScreen<br>
+PreferenceScreen: 启动一个网页<br>
 Preference attributes
 CheckBox: 父选项
 CheckBox: 子选项，当父选项勾选时呈现
